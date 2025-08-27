@@ -1,0 +1,15 @@
+colosseum.televisioncamera.checks.combat.FastBow
+colosseum.televisioncamera.checks.combat.KillauraTypeA
+colosseum.televisioncamera.checks.combat.KillauraTypeB
+colosseum.televisioncamera.checks.combat.KillauraTypeC
+colosseum.televisioncamera.checks.combat.KillauraTypeD
+colosseum.televisioncamera.checks.combat.KillauraTypeE
+colosseum.televisioncamera.checks.combat.KillauraTypeF
+colosseum.televisioncamera.checks.move.Glide
+colosseum.televisioncamera.checks.move.HeadRoll
+colosseum.televisioncamera.checks.move.Phase
+colosseum.televisioncamera.checks.move.Speed
+colosseum.televisioncamera.checks.move.Timer
+colosseum.televisioncamera.checks.move.Toggle
+colosseum.televisioncamera.checks.player.BadPackets
+colosseum.televisioncamera.checks.player.Scaffold
